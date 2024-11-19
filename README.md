@@ -14,12 +14,12 @@ Possuo habilidades no uso de ferramentas como Cypress, Selenium, Postman, lingua
 ## 🛠 Habilidades e Ferramentas
 
 ### Linguagens de Programação
-- Estudando>![Java](<script src="https://gist.github.com/marciobruno-stack/ed1478cbba7e84bd436c64cfaaf2f4eb.js"></script>)
-- Estudando>![JavaScript](<script src="https://gist.github.com/marciobruno-stack/93a1086939ccf3d2ebbd6e78790cfc52.js"></script>)
+- Estudando>![Java]
+- Estudando>![JavaScript]
 
 ### Ferramentas Utilizadas
-![SQL](<script src="https://gist.github.com/marciobruno-stack/8ffb475470452746b94a7c207fa93b70.js"></script>)
-![Postman](<script src="https://gist.github.com/marciobruno-stack/81b9826b02756f72b029d6c8999bb7f1.js"></script>)
+![SQL]
+![Postman])
 ![Cypress](<script src="https://gist.github.com/marciobruno-stack/7abeb9b117de400552a5e3d6a43f6054.js"></script>)
 ![Selenium](<script src="https://gist.github.com/marciobruno-stack/23786bad4cd2ea065393e0a359c0ca49.js"></script>)
 
