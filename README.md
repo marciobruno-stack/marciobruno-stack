@@ -7,7 +7,7 @@ Ao longo da minha trajetória profissional, desenvolvi atividades como: atividad
 Participei de projetos, tais como: Atualização de Banco de Dados Oracle, SQL, Sinacor Centura, Sinacor+, OMM, SMP, Homebroker, PQO, IPN, Desenvolvimento interno, migração de CPD, entre outros. Graduação em Gestão de Banco de Dados. Conhecimentos em Oracle, SQL, Git e Github, HTML, CS3, Postman, Cypress, Java e JavaScript. Inglês nível básico. 
  
 
-Possuo habilidades no uso de ferramentas como Cypress, Selenium, Postman, linguagens de programação como Java e JavaScript para a automação de testes. Também sou adepto de metodologias Agile, promovendo a entrega contínua de valor e melhorias nos processos de qualidade.
+Possuo habilidades no uso de ferramentas como Cypress, Selenium, Postman, linguagens de programação como Java e JavaScript para a automação de testes. Também sou adepto de metodologias Agile, promovendo a entrega contínua de valor e melhorias nos processos de qualidade. (No ambito de estudos para validar os conhecimentos)
 
 ---
 
