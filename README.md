@@ -1,4 +1,4 @@
-# 👨‍💻 QA Engineer Jr.
+# 👨‍💻 Porcurando recolicação na área QA Engineer Jr.
 
 👋 Olá! Eu sou o Marcio Bruno Silva Santos. Profissional com mais de 14 anos de experiência na área de Tecnologia, atuando na execução de atividades relacionadas a atendimento a usuários, suporte, entendimento de necessidades e suporte a todos os sistemas relacionados ao segmento de corretoras. Expertise em Gestão de Banco de Dados, no que se refere a rotinas de manutenção, gerenciamento e monitoramento. 
 
