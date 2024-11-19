@@ -14,8 +14,9 @@ Possuo habilidades no uso de ferramentas como Cypress, Selenium, Postman, lingua
 ## 🛠 Habilidades e Ferramentas
 
 ### Linguagens de Programação
-- Estudando> Java
-- Estudando>JavaScript
+- Estudando > Lógica de Programação
+- Estudando > Java
+- Estudando > JavaScript
 
 ### Ferramentas Utilizadas
 SQL
