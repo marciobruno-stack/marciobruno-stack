@@ -25,11 +25,11 @@ Selenium
 
 
 ### Controle de Versão
-Git
-GitHub
+- Git
+- GitHub
 
 ### Rastreamento de Bugs & Gestão de Testes
-Jira
+- Jira
 
 ### Automação/Framework
 Automação de testes de aceitação (funcionais e sistema) de front-end (Web e Mobile) e back-end (API).
