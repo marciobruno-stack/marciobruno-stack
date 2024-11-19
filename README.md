@@ -14,40 +14,39 @@ Possuo habilidades no uso de ferramentas como Cypress, Selenium, Postman, lingua
 ## 🛠 Habilidades e Ferramentas
 
 ### Linguagens de Programação
-- Estudando>![Java]
-- Estudando>![JavaScript]
+- Estudando> Java
+- Estudando>JavaScript
 
 ### Ferramentas Utilizadas
-![SQL]
-![Postman])
-![Cypress](<script src="https://gist.github.com/marciobruno-stack/7abeb9b117de400552a5e3d6a43f6054.js"></script>)
-![Selenium](<script src="https://gist.github.com/marciobruno-stack/23786bad4cd2ea065393e0a359c0ca49.js"></script>)
+SQL
+Postman
+Cypress
+Selenium
 
 
 ### Controle de Versão
-![Git](<script src="https://gist.github.com/marciobruno-stack/8b14fe8150fe006419c50520f384f184.js"></script>)
-![GitHub](<script src="https://gist.github.com/marciobruno-stack/4787f714b4704199109ffa8f3750e16a.js"></script>)
+Git
+GitHub
 
 ### Rastreamento de Bugs & Gestão de Testes
-![Jira](<script src="https://gist.github.com/marciobruno-stack/fa382d053e036abda3da001880a635fa.js"></script>)
+Jira
 
 ### Automação/Framework
 Automação de testes de aceitação (funcionais e sistema) de front-end (Web e Mobile) e back-end (API).
 
 ### Metodologias
-![SCRUM](<script src="https://gist.github.com/marciobruno-stack/11629318b7f112e1360a7b51e4be9b2d.js"></script>)
-
+SCRUM
 ---
 
 ## 🎓 Educação
-![Banco de Dados | Cursando ](<script src="https://gist.github.com/marciobruno-stack/63c9ee134b4da6cd1bfbc8e80c771706.js"></script>)
+Banco de Dados | Cursando ]
 
 ---
 
 ## 📫 Onde me encontrar
-- [![LINKEDIN](<script src="https://gist.github.com/marciobruno-stack/bac299aa3c773aeb9339da8191c625ae.js"></script>)](https://www.linkedin.com/in/marciobrunosantos/)
+- LINKEDIN - (https://www.linkedin.com/in/marciobrunosantos/)
 
-- [![GITHUB](<script src="https://gist.github.com/marciobruno-stack/4787f714b4704199109ffa8f3750e16a.js"></script>)](https://github.com/marciobruno-stack/marciobruno-stack)
+- GITHUB - (https://github.com/marciobruno-stack/marciobruno-stack)
 
 ---
 
