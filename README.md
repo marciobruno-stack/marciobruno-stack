@@ -4,7 +4,7 @@
 
 Ao longo da minha trajetória profissional, desenvolvi atividades como: atividades de resolução de incidentes, criação e execução de filas, validação em SQL, suporte mesa de operações e usuários backoffice, processos homologados pela BMS e sistemas internos, suporte em ambientes de negociação e pós negociação (B3), gestão de mudanças (GMUD), análise de logs FIX 4.2 2 4.4, levantamentos sobre as necessidades dos clientes, revisão de acessos e checklists nos sistemas, entre outras funções. 
 
-Participei de projetos, tais como: Atualização de Banco de Dados Oracle, SQL, Sinacor Centura, Sinacor+, OMM, SMP, Homebroker, PQO, IPN, Desenvolvimento interno, migração de CPD, entre outros. Graduação em Gestão de Banco de Dados. 
+Participei de projetos, tais como: Atualização de Banco de Dados Oracle, SQL, migração do Sinacor Centura para o Sinacor+, OMM, SMP, Homebroker, PQO, IPN, Desenvolvimento interno, migração de CPD, entre outros. Graduação em Gestão de Banco de Dados. 
 
 Possuo habilidades no uso de ferramentas como Cypress, Selenium, Postman, linguagens de programação como Java e JavaScript para a automação de testes. Também sou adepto de metodologias Agile, promovendo a entrega contínua de valor e melhorias nos processos de qualidade. (No ambito de estudos para validar os conhecimentos)
 
