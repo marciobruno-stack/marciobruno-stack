@@ -25,10 +25,10 @@ Possuo habilidades no uso de ferramentas como Cypress, Selenium, Postman, lingua
 - Estudando > JavaScript
 
 ### Ferramentas Utilizadas
-SQL
-Postman
-Cypress
-Selenium
+- SQL
+- Postman
+- Cypress
+- Selenium
 
 
 ### Controle de Versão
@@ -39,11 +39,12 @@ Selenium
 - Jira
 
 ### Automação/Framework
-Automação de testes de aceitação (funcionais e sistema) de front-end (Web e Mobile) e back-end (API).
+- Automação de testes de aceitação (funcionais e sistema) de front-end (Web e Mobile) e back-end (API).
 
 ### Metodologias
-SCRUM
-ÁGIL
+- SCRUM
+- ÁGIL
+
 ---
 
 ## 🎓 Educação
