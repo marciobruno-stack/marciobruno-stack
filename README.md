@@ -36,10 +36,11 @@ Automação de testes de aceitação (funcionais e sistema) de front-end (Web e 
 
 ### Metodologias
 SCRUM
+ÁGIL
 ---
 
 ## 🎓 Educação
-Banco de Dados | Cursando ]
+Banco de Dados | [ Cursando ]
 
 ---
 
