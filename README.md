@@ -8,7 +8,7 @@ Atualmente, estou direcionando toda essa bagagem analítica e investigativa para
 A minha vivência suportando operações (como B3) e usuários backoffice me deu uma visão privilegiada de como os bugs afetam o negócio e o cliente final. 
 * **Mindset Investigativo e Troubleshooting:** Vasta experiência com análise de logs complexos (FIX 4.2 a 4.4), resolução de incidentes sistêmicos e profunda validação de dados via **SQL**.
 * **Visão de Negócio e Processos:** Vivência em ambientes de alta criticidade, GMUD (Gestão de Mudanças), levantamento de necessidades e participação ativa na migração e atualização de sistemas (Sinacor, Homebroker, etc).
-* **Foco em Qualidade e Automação:** Venho aprofundando meus estudos e aplicando na prática testes manuais, testes de aceitação e automação utilizando **Cypress, Selenium e Postman**.
+* **Foco em Qualidade e Automação:** Venho aprofundando meus estudos e aplicando na prática testes manuais, testes de aceitação e automação utilizando **Cypress e Postman**.
 ---
 ### 🛠️ Habilidades e Ferramentas
 **🧪 Qualidade e Testes (QA)**
