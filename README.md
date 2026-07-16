@@ -37,6 +37,7 @@ A minha vivência suportando operações (como B3) e usuários backoffice me deu
 ---
 ### 📫 Onde me encontrar
 Estou sempre aberto a novos desafios, projetos para validação de conhecimentos e conexões profissionais!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-b-s-santos)
 
 💬 Sinta-se à vontade para me mandar uma mensagem se quiser conversar sobre testes, automação ou mercado de tecnologia!
